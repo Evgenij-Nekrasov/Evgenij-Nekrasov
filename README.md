@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **web app telegram bot on Node js + React**
 
-- 🌱 I’m currently studying **Next.js and Redux**
+- 🌱 In my free time I study **Next.js and Redux**
 
 - 👯 I would like to collaborate with people **who are passionate about this case**
 
-- 🤝 I’m looking for help with **the company in St. Petersburg that I can help with my skills and in return I will get a team of professionals**
+- 🤝 I’m looking for **the company in St. Petersburg that I can help with my skills and in return I will get a team of professionals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Evgenij-Nekrasov](https://github.com/Evgenij-Nekrasov)
 
