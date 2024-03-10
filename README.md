@@ -37,10 +37,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="40" height="35"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://habrastorage.org/r/w1560/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" alt="webpack" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Backend Development:</h3>
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
 <h3 align="left">Software:</h3>
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
