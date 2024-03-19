@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgenij-nekrasov&label=Profile%20views&color=0e75b6&style=flat" alt="evgenij-nekrasov" /> </p>
 
-- 🔭 I’m currently working on **web app telegram bot on Node js + React**
+- 🔭 I`m currently working on the web app with a stack of **React, TypeScript, Redux-toolkit, RTK-query and Tailwind**
 
 - 🌱 In my free time I study **Next.js and Redux**
 
