@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Evgenij-Nekrasov)
+[![MasterHead](https://drive.google.com/file/d/1aVRCjXEpYHa3HhjPH404-aJIMOS8hji6/view?usp=sharing)](https://github.com/Evgenij-Nekrasov)
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">The front-end developer from Russia who is absorbed in his work</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
