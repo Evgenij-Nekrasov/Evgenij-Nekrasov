@@ -1,4 +1,4 @@
-(![ezgif com-resize](https://github.com/Evgenij-Nekrasov/Evgenij-Nekrasov/assets/137310332/667dad83-080c-44ef-ae3e-3f836dfbf484)
+(https://github.com/Evgenij-Nekrasov/Evgenij-Nekrasov/assets/137310332/667dad83-080c-44ef-ae3e-3f836dfbf484)
 )](https://github.com/Evgenij-Nekrasov)
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">The front-end developer from Russia who is absorbed in his work</h3>
