@@ -1,6 +1,5 @@
 <p align="center">
- <img src="![ezgif com-resize](https://github.com/Evgenij-Nekrasov/Task---loading-by-scrolling/assets/137310332/b49b5d1f-92b1-4c4a-aa2b-704f2ff85548)
-" alt="qr"/>
+ <img src="https://github.com/Evgenij-Nekrasov/Task---loading-by-scrolling/assets/137310332/b49b5d1f-92b1-4c4a-aa2b-704f2ff85548" alt="qr"/>
 </p>
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">The front-end developer from Russia who is absorbed in his work</h3>
