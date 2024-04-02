@@ -1,5 +1,6 @@
-(https://github.com/Evgenij-Nekrasov/Evgenij-Nekrasov/assets/137310332/667dad83-080c-44ef-ae3e-3f836dfbf484)
-)](https://github.com/Evgenij-Nekrasov)
+<p align="center">
+ <img src="https://github.com/Evgenij-Nekrasov/Evgenij-Nekrasov/assets/137310332/667dad83-080c-44ef-ae3e-3f836dfbf484" alt="qr"/>
+</p>
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">The front-end developer from Russia who is absorbed in his work</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
