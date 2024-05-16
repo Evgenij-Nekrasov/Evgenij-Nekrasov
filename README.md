@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nekrasovevgenij3@gmail.com**
 
-- ⚡ Fun fact **Since December 26, 2022, I have been working at my computer every day**
+- ⚡ Fun fact **Since January 26, 2022, I have been working at my computer every day**
 
 
 <h3 align="left">Programming Languages:</h3>
