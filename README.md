@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://github.com/Evgenij-Nekrasov/Task---loading-by-scrolling/assets/137310332/b49b5d1f-92b1-4c4a-aa2b-704f2ff85548" alt="qr"/>
 </p>
-<h1 align="center">Hi 👋, I'm Evgeny</h1>
+<h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">The frontend developer from Russia who is absorbed in his work</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
