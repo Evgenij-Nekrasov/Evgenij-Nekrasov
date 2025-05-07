@@ -196,7 +196,6 @@
 <br>
 
 <h2 align="left" id="nekrasov-stack">Statistics</h2>
-<img src="https://brandeps.com/icon-download/S/Statistics-icon-vector-01.svg" width="36" height="36" alt="Statistics" />
 
 
 
