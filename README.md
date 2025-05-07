@@ -195,10 +195,9 @@
 
 <br>
 
-<h2 align="left" id="nekrasov-stack">
+<h2 align="left" id="nekrasov-stack">Statistics</h2>
 <img src="https://brandeps.com/icon-download/S/Statistics-icon-vector-01.svg" width="36" height="36" alt="Statistics" />
-Statistics
-</h2>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgenij-nekrasov&show_icons=true&locale=en&layout=compact" alt="evgenij-nekrasov" /></p>
