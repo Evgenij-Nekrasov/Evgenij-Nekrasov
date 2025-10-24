@@ -79,17 +79,17 @@
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="https://docker.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
       <br>docker
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
+      </a>
+      <br>Go
     </td>
   </tr> 
 </table>
@@ -128,12 +128,6 @@
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
-    </td>
-        <td align="center" width="110" height="90">
-     <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>stylelint
     </td>
   </tr> 
 </table>
